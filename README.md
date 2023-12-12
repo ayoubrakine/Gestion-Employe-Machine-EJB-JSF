@@ -1,1 +1,3 @@
-# Gestion-Employe-Machine-EJB-JSF
+# Gestion Employe Machine avec EJB JSF
+
+## VIDEO DEMO
